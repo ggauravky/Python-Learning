@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge" alt="Status"/>
 <img src="https://img.shields.io/badge/Progress-Advancing-blue?style=for-the-badge" alt="Progress"/>
 
-### *From Fundamentals to Advanced Python Mastery*
+### _From Fundamentals to Advanced Python Mastery_
 
 [![Course](https://img.shields.io/badge/Completed-Code_With_Harry_Bootcamp-success?style=flat-square)](https://www.codewithharry.com/courses/complete-python-bootcamp-learn-python-from-scratch)
 [![Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square&logo=adobe-acrobat-reader)](./000%20Complete%202025%20Python%20Bootcamp%20Learn%20Python%20from%20Scratch%20by%20Code%20With%20Harry/cert.pdf)
@@ -21,7 +21,7 @@
 <div align="center">
 
 | 📚 [About](#-about-this-repository) | 📑 [Contents](#-table-of-contents) | ✅ [Completed Course](#-completed-course) | 🎯 [Current Path](#-current-learning-path) | 🛠️ [Tech Stack](#️-technologies--tools) | 🚦 [Getting Started](#-getting-started) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+| :---------------------------------: | :--------------------------------: | :---------------------------------------: | :----------------------------------------: | :-------------------------------------: | :-------------------------------------: |
 
 </div>
 
@@ -78,72 +78,72 @@ Welcome to my comprehensive Python learning repository! This space documents my 
 <details>
 <summary><b>Click to expand completed topics</b></summary>
 
-<br>  
+<br>
 
 ##### 🔹 Core Fundamentals
 
--   ✔️ Python Setup & Syntax
--   ✔️ Variables & Data Types
--   ✔️ Typecasting & Type Conversion
--   ✔️ User Input Handling
--   ✔️ Comments, Print Functions & Escape Sequences
--   ✔️ Operators (Arithmetic, Logical, Conditional, Assignment)
+- ✔️ Python Setup & Syntax
+- ✔️ Variables & Data Types
+- ✔️ Typecasting & Type Conversion
+- ✔️ User Input Handling
+- ✔️ Comments, Print Functions & Escape Sequences
+- ✔️ Operators (Arithmetic, Logical, Conditional, Assignment)
 
 ##### 🔹 Control Flow
 
--   ✔️ Conditional Statements (`if`, `else`, `elif`, `match-case`)
--   ✔️ Loops (`for`, `while`)
--   ✔️ Loop Control (`break`, `continue`, `pass`)
+- ✔️ Conditional Statements (`if`, `else`, `elif`, `match-case`)
+- ✔️ Loops (`for`, `while`)
+- ✔️ Loop Control (`break`, `continue`, `pass`)
 
 ##### 🔹 Data Structures
 
--   ✔️ Strings (Indexing, Slicing, Methods, f-strings)
--   ✔️ Lists & List Comprehensions
--   ✔️ Tuples & Tuple Unpacking
--   ✔️ Sets & Set Operations
--   ✔️ Dictionaries & Dict Comprehensions
+- ✔️ Strings (Indexing, Slicing, Methods, f-strings)
+- ✔️ Lists & List Comprehensions
+- ✔️ Tuples & Tuple Unpacking
+- ✔️ Sets & Set Operations
+- ✔️ Dictionaries & Dict Comprehensions
 
 ##### 🔹 Functions & Modularity
 
--   ✔️ Function Definition & Arguments
--   ✔️ Lambda Functions
--   ✔️ Recursion
--   ✔️ Modules & Imports
--   ✔️ Function Scope & Global Variables
--   ✔️ Docstrings
+- ✔️ Function Definition & Arguments
+- ✔️ Lambda Functions
+- ✔️ Recursion
+- ✔️ Modules & Imports
+- ✔️ Function Scope & Global Variables
+- ✔️ Docstrings
 
 ##### 🔹 Object-Oriented Programming
 
--   ✔️ Classes & Objects
--   ✔️ Constructors (`__init__`)
--   ✔️ Instance vs Class Attributes
--   ✔️ Inheritance & `super()`
--   ✔️ Operator Overloading
+- ✔️ Classes & Objects
+- ✔️ Constructors (`__init__`)
+- ✔️ Instance vs Class Attributes
+- ✔️ Inheritance & `super()`
+- ✔️ Operator Overloading
 
 ##### 🔹 Advanced Concepts
 
--   ✔️ Decorators (with/without arguments)
--   ✔️ Getters & Setters
--   ✔️ Instance, Static & Class Methods
--   ✔️ Dunder/Magic Methods
--   ✔️ Error Handling (`try`, `except`, `else`, `finally`)
--   ✔️ Map, Filter & Reduce
--   ✔️ `*args` & `**kwargs`
--   ✔️ Walrus Operator (`:=`)
+- ✔️ Decorators (with/without arguments)
+- ✔️ Getters & Setters
+- ✔️ Instance, Static & Class Methods
+- ✔️ Dunder/Magic Methods
+- ✔️ Error Handling (`try`, `except`, `else`, `finally`)
+- ✔️ Map, Filter & Reduce
+- ✔️ `*args` & `**kwargs`
+- ✔️ Walrus Operator (`:=`)
 
 ##### 🔹 File Operations
 
--   ✔️ Reading, Writing & Appending Files
--   ✔️ Context Managers (`with` statement)
--   ✔️ Working with `os` & `shutil` modules
+- ✔️ Reading, Writing & Appending Files
+- ✔️ Context Managers (`with` statement)
+- ✔️ Working with `os` & `shutil` modules
 
 ##### 🔹 External Libraries
 
--   ✔️ Virtual Environments
--   ✔️ HTTP Requests (`requests`)
--   ✔️ Regular Expressions (`re`)
--   ✔️ Threading
--   ✔️ Command-line Arguments (`argparse`)
+- ✔️ Virtual Environments
+- ✔️ HTTP Requests (`requests`)
+- ✔️ Regular Expressions (`re`)
+- ✔️ Threading
+- ✔️ Command-line Arguments (`argparse`)
 
 ##### 🔹 Projects
 
@@ -219,7 +219,7 @@ Explore the complete course content organized by topics:
 
 <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge&logo=rocket&logoColor=white" alt="In Progress"/>
 
-*Building upon the foundation with deeper concepts and real-world applications*
+_Building upon the foundation with deeper concepts and real-world applications_
 
 </div>
 
@@ -229,13 +229,17 @@ Having completed the fundamentals, I'm now advancing my Python skills with:
 
 ```text
 ┌─────────────────────────────────────────────────────┐
-│  🔥 Advanced Python Concepts                        │
-│  💻 Data Structures & Algorithms                    │
+│  ✅ Advanced Python Concepts (Completed)            │
+│  ✅ Generators & Iterators (Mastered)               │
+│  ✅ Decorators & Metaprogramming (Completed)        │
+│  ✅ Advanced OOP Patterns (Completed)               │
+│  ✅ Exception Handling (Mastered)                   │
+│  ✅ Comprehensions (All Types)                      │
 │  🌐 Web Development (Django/Flask)                  │
 │  📊 Data Science & Analysis                         │
 │  🤖 Machine Learning & AI                           │
 │  🔧 DevOps & Automation                             │
-│  🎯 Real-world Projects                             │
+│  🎯 Real-world Projects (Ongoing)                   │
 └─────────────────────────────────────────────────────┘
 ```
 
@@ -269,20 +273,95 @@ Python-Learnings/
 │   ├── 22_flask/                                  # Flask web development
 │   └── 🎓 cert.pdf                                # Course completion certificate
 │
-├── 📁 001 intro to coding world with python/      # 🆕 New Learning Series
-│   ├── non_python_code.py                         # Coding fundamentals
+├── 📁 001_intro to coding world with python/      # ✅ Coding Fundamentals
+│   ├── non_python_code.py                         # Basic coding concepts
 │   └── non_python_shop.py                         # Practice projects
 │
-├── 📁 02_Datatypes/                               # 🆕 Advanced Deep Dive
-│   ├── 001 chapter.py                             # Data type fundamentals
-│   ├── 002 Chapter.py                             # Type operations
-│   ├── 003 Chapter.py                             # Advanced concepts
-│   └── 004 Chapter.py                             # Best practices
+├── 📁 002_Datatypes/                              # ✅ Data Types Mastery
+│   ├── 001-009 chapter.py                         # 9 comprehensive chapters
+│   └── Advanced type operations                   # Type manipulation & best practices
+│
+├── 📁 003_Conditionals/                           # ✅ Conditional Logic Projects
+│   ├── 001_snack_suggestion.py                    # Decision-making logic
+│   ├── 002_chai_price_calc.py                     # Price calculations
+│   ├── 003_smart_thermostat.py                    # IoT simulation
+│   ├── 004_delivery_fees_waiver.py                # Business logic
+│   └── 005_train_seat.py                          # Seat allocation system
+│
+├── 📁 004_Loops/                                  # ✅ Loop Mastery
+│   ├── 001_Tea_Token_Dispenser.py                 # Token generation system
+│   ├── 002_Play_Batch_Chai_Preparation.py         # Batch processing
+│   ├── 003_table_print.py                         # Formatted output
+│   ├── 004-006_tea_orders/menu/summary.py         # Order management system
+│   ├── 007_tea-temperature.py                     # Temperature monitoring
+│   ├── 008_put_of_order.py                        # Error handling in loops
+│   ├── 009_walrus.py                              # Walrus operator in loops
+│   └── 010_dictionary_case.py                     # Dictionary iterations
+│
+├── 📁 005_Functions/                              # ✅ Functions Deep Dive
+│   ├── 01_duplication.py                          # DRY principle
+│   ├── 02_complex.py                              # Complex function patterns
+│   ├── 03_hiding.py                               # Encapsulation concepts
+│   ├── 04_readability.py                          # Clean code practices
+│   ├── 05_trace.py                                # Function execution tracing
+│   ├── 06_scopes.py                               # Variable scoping
+│   ├── 07_nonlocal.py                             # Nonlocal keyword usage
+│   ├── 08_global_scope.py                         # Global variables
+│   ├── 09_input_params.py                         # Parameter handling
+│   ├── 10_return.py                               # Return value patterns
+│   ├── 11_types_of_functions.py                   # Function categories
+│   └── 12_built_in.py                             # Built-in functions mastery
+│
+├── 📁 06_chai_business/                           # ✅ Modular Project
+│   ├── main.py                                    # Main application logic
+│   ├── recipes/                                   # Recipe management module
+│   └── utils/                                     # Utility functions
+│
+├── 📁 07_Comprehensions/                          # ✅ Comprehension Techniques
+│   ├── 01_list_compre.py                          # List comprehensions
+│   ├── 02_set_compre.py                           # Set comprehensions
+│   ├── 03_dict_compre.py                          # Dictionary comprehensions
+│   └── 04_genrator_compre.py                      # Generator expressions
+│
+├── 📁 08_generators/                              # ✅ Advanced Generators
+│   ├── 01_basics.py                               # Generator fundamentals
+│   ├── 02_infinite_generators.py                  # Infinite sequences
+│   ├── 03_send_generators.py                      # Two-way generator communication
+│   └── 04_close_generator.py                      # Generator lifecycle management
+│
+├── 📁 09_decorators/                              # ✅ Decorator Patterns
+│   ├── 01_basics.py                               # Decorator fundamentals
+│   ├── 02_logging_decorators.py                   # Logging implementation
+│   └── 03_auth_decorator.py                       # Authentication decorator
+│
+├── 📁 10_OOP/                                     # ✅ Advanced OOP
+│   ├── 01_simple_class.py                         # Class basics
+│   ├── 02_namespace.py                            # Namespace management
+│   ├── 03_attribute_shadowing.py                  # Attribute resolution
+│   ├── 04_self_args.py                            # Self parameter deep dive
+│   ├── 05_init_objects.py                         # Object initialization
+│   ├── 06_inheritance_composition.py              # OOP design patterns
+│   ├── 07_base_class.py                           # Base class design
+│   ├── 08_mro.py                                  # Method resolution order
+│   ├── 09_static_methods.py                       # Static method patterns
+│   ├── 10_classmethod.py                          # Class method usage
+│   └── 11_propert_decorators.py                   # Property decorators
+│
+├── 📁 11_Exceptions/                              # ✅ Exception Handling
+│   └── 01_basic.py                                # Exception handling patterns
 │
 └── 📄 README.md                                   # This file
 ```
 
-> **Note**: The `000 Complete 2025 Python Bootcamp` folder contains all materials from the completed course. New learning materials are being added in separate folders for advanced topics and specialized areas.
+> **Note**: The `000 Complete 2025 Python Bootcamp` folder contains all materials from the completed course. Beyond the bootcamp, I've completed 11 additional advanced modules covering:
+>
+> - **Advanced Functions** (12 comprehensive modules)
+> - **Comprehensions** (All 4 types mastered)
+> - **Generators** (Including infinite sequences & two-way communication)
+> - **Decorators** (Custom patterns, logging, authentication)
+> - **Advanced OOP** (11 modules including MRO, properties, static/class methods)
+> - **Exception Handling** (Complete error management)
+> - **Real-world Projects** (15+ practice applications including chai business, conditional systems, loop patterns)
 
 ---
 
@@ -414,8 +493,8 @@ py -3.11 script.py  # Python 3.11
 
 ```text
 Foundation ████████████████████ 100% ✅
-Advanced   ██████░░░░░░░░░░░░░░  30% 🚀
-Projects   ████░░░░░░░░░░░░░░░░  20% 🎯
+Advanced   ████████████████░░░░  80% 🚀
+Projects   ███████████░░░░░░░░░  55% 🎯
 ```
 
 ---
@@ -426,14 +505,14 @@ Projects   ████░░░░░░░░░░░░░░░░  20% �
 
 ### 📈 Learning Achievements
 
-| Metric | Count | Status |
-|--------|-------|--------|
-| 📚 **Topics Covered** | 22+ | ✅ Complete |
-| 💻 **Code Files** | 100+ | 📝 Growing |
-| 🎯 **Projects Built** | 5+ | 🚀 Expanding |
-| 🏆 **Courses Completed** | 1 | ✅ Certified |
-| ⏰ **Learning Hours** | 100+ | ⏱️ Ongoing |
-| 📖 **Concepts Mastered** | 50+ | 🎓 Advanced |
+| Metric                   | Count | Status       |
+| ------------------------ | ----- | ------------ |
+| 📚 **Topics Covered**    | 35+   | ✅ Complete  |
+| 💻 **Code Files**        | 150+  | 📝 Growing   |
+| 🎯 **Projects Built**    | 15+   | 🚀 Expanding |
+| 🏆 **Courses Completed** | 1     | ✅ Certified |
+| ⏰ **Learning Hours**    | 200+  | ⏱️ Ongoing   |
+| 📖 **Concepts Mastered** | 100+  | 🎓 Advanced  |
 
 </div>
 
@@ -441,9 +520,16 @@ Projects   ████░░░░░░░░░░░░░░░░  20% �
 
 ```text
 Core Python          ████████████████████ 100% (9 modules)
-Data Structures      ████████████████████ 100% (6 modules)
-OOP Concepts         ████████████████████ 100% (5 modules)
-Advanced Python      ████████████████████ 100% (15 topics)
+Data Structures      ████████████████████ 100% (9 chapters)
+OOP Concepts         ████████████████████ 100% (11 modules)
+Advanced Python      ████████████████████ 100% (15+ topics)
+Functions            ████████████████████ 100% (12 modules)
+Loops & Iteration    ████████████████████ 100% (10 modules)
+Conditionals         ████████████████████ 100% (5 projects)
+Comprehensions       ████████████████████ 100% (4 types)
+Generators           ████████████████████ 100% (4 modules)
+Decorators           ████████████████████ 100% (3 patterns)
+Exception Handling   ████████████████████ 100% (Complete)
 File Operations      ████████████████████ 100% (Complete)
 Web Development      ███████████████░░░░░  75% (Flask done)
 AI Integration       ████████░░░░░░░░░░░░  40% (In Progress)
@@ -455,13 +541,19 @@ External Modules     ██████████████░░░░░�
 ## 🎯 Goals & Roadmap
 
 - [x] Complete Python Fundamentals
-- [x] Master OOP Concepts
+- [x] Master OOP Concepts (11 modules)
 - [x] Learn File Handling & External Modules
 - [x] Build AI Chatbot Project
 - [x] Learn Flask Web Development
-- [ ] Build 10+ Real-world Projects
+- [x] Master Advanced Functions (12 modules)
+- [x] Master Comprehensions (List, Set, Dict, Generator)
+- [x] Deep Dive into Generators (4 advanced patterns)
+- [x] Master Decorators (Logging, Auth, Custom)
+- [x] Complete Exception Handling
+- [x] Build 15+ Practice Projects
+- [x] Master Loop Patterns (10 modules)
+- [x] Advanced Conditional Logic (5 projects)
 - [ ] Master Data Structures & Algorithms
-- [ ] Deep Dive into Advanced Python Patterns
 - [ ] Learn Django for Web Development
 - [ ] Explore Data Science & ML Libraries (NumPy, Pandas, Scikit-learn)
 - [ ] Master Async Programming & Concurrency
@@ -493,13 +585,13 @@ External Modules     ██████████████░░░░░�
 
 <div align="center">
 
-| 🎯 Area | 📖 Resource | 🔗 Link |
-|---------|-------------|---------|
-| **Data Science** | Python for Data Analysis | [Pandas Docs](https://pandas.pydata.org/) |
-| **Web Development** | Django Full Course | [Django Docs](https://www.djangoproject.com/) |
-| **Machine Learning** | Scikit-learn Tutorial | [Scikit-learn](https://scikit-learn.org/) |
-| **Algorithms** | LeetCode Patterns | [LeetCode](https://leetcode.com/) |
-| **Clean Code** | PEP 8 Style Guide | [PEP 8](https://pep8.org/) |
+| 🎯 Area              | 📖 Resource              | 🔗 Link                                       |
+| -------------------- | ------------------------ | --------------------------------------------- |
+| **Data Science**     | Python for Data Analysis | [Pandas Docs](https://pandas.pydata.org/)     |
+| **Web Development**  | Django Full Course       | [Django Docs](https://www.djangoproject.com/) |
+| **Machine Learning** | Scikit-learn Tutorial    | [Scikit-learn](https://scikit-learn.org/)     |
+| **Algorithms**       | LeetCode Patterns        | [LeetCode](https://leetcode.com/)             |
+| **Clean Code**       | PEP 8 Style Guide        | [PEP 8](https://pep8.org/)                    |
 
 </div>
 
@@ -573,7 +665,7 @@ If you find this repository helpful, consider:
 
 <div align="center">
 
-*Happy Coding! 🐍💻*
+_Happy Coding! 🐍💻_
 
 </div>
 
@@ -583,7 +675,7 @@ If you find this repository helpful, consider:
 
 **Made with ❤️ and Python**
 
-*Last Updated: October 2025*
+_Last Updated: October 2025_
 
 ### 🏷️ Tags
 
